@@ -36,6 +36,20 @@ export default function QuizApp() {
   const [selected, setSelected] = useState(null);
   const [isFinished, setIsFinished] = useState(false);
 
+  useEffect(() => {
+  const setVH = () => {
+    const vh = window.innerHeight * 0.01;
+    document.documentElement.style.setProperty('--vh', `${vh}px`);
+  };
+
+  setVH();
+  window.addEventListener('resize', setVH);
+
+  return () => {
+    window.removeEventListener('resize', setVH);
+  };
+}, []);
+
   const handleAnswer = (answer) => {
     if (selected !== null) return;
     console.log(answer)

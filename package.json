@@ -2,7 +2,7 @@
   "name": "quiz-namorados",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://seu-usuario.github.io/nome-do-repositorio",
+  "homepage": "https://jonathanfrosto.github.io/quiz-namorados/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
