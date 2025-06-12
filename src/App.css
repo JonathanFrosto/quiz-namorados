@@ -1,6 +1,15 @@
+body {
+  background-color: rebeccapurple;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color: white;
+}
+
 .App {
   text-align: center;
 }
+
 
 .App-logo {
   height: 40vmin;
