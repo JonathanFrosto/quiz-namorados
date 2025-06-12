@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nome-do-repositorio/static/css/main.95638186.css",
-    "main.js": "/nome-do-repositorio/static/js/main.fcf0b8b9.js",
-    "static/js/453.2cebc09c.chunk.js": "/nome-do-repositorio/static/js/453.2cebc09c.chunk.js",
-    "index.html": "/nome-do-repositorio/index.html",
-    "main.95638186.css.map": "/nome-do-repositorio/static/css/main.95638186.css.map",
-    "main.fcf0b8b9.js.map": "/nome-do-repositorio/static/js/main.fcf0b8b9.js.map",
-    "453.2cebc09c.chunk.js.map": "/nome-do-repositorio/static/js/453.2cebc09c.chunk.js.map"
+    "main.css": "/quiz-namorados/static/css/main.95638186.css",
+    "main.js": "/quiz-namorados/static/js/main.447a333f.js",
+    "static/js/453.2cebc09c.chunk.js": "/quiz-namorados/static/js/453.2cebc09c.chunk.js",
+    "index.html": "/quiz-namorados/index.html",
+    "main.95638186.css.map": "/quiz-namorados/static/css/main.95638186.css.map",
+    "main.447a333f.js.map": "/quiz-namorados/static/js/main.447a333f.js.map",
+    "453.2cebc09c.chunk.js.map": "/quiz-namorados/static/js/453.2cebc09c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95638186.css",
-    "static/js/main.fcf0b8b9.js"
+    "static/js/main.447a333f.js"
   ]
 }
